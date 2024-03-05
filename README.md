@@ -3,7 +3,7 @@
 # Hi there! 👋 I'm Abenezer
 
 ## About Me
-With over 2 years of experience as a MARN (MongoDB, Angular, React, Node.js) stack developer, my journey in the tech industry has been a continuous learning adventure. I've had the privilege of working on diverse projects, honing my skills, and staying abreast of the latest technologies.
+With over 3 years as a MongoDB, React, Node.js (MRN) stack developer, my tech journey has been a continuous learning adventure. I've honed my skills and stayed updated on the latest technologies through diverse projects. I am ready to make a meaningful contribution and achieve great things in the ever-evolving world of software development.
 
 ## 💻 Tech Stack
 - **Frontend:** React

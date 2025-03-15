@@ -1,5 +1,5 @@
 # 💫 About Me:
-With over 3 years as backend developer Python, django and a MongoDB, React, Node.js (MERN) stack developer, my tech journey has been a continuous learning adventure. I've honed my skills and stayed updated on the latest technologies through diverse projects. I am ready to make a meaningful contribution and achieve great things in the ever-evolving world of software development.
+With over 3 years as backend developer golang, Python, django and a MongoDB, React, Node.js (MERN) stack developer, my tech journey has been a continuous learning adventure. I've honed my skills and stayed updated on the latest technologies through diverse projects. I am ready to make a meaningful contribution and achieve great things in the ever-evolving world of software development.
 
 
 ## 🌐 Socials:
